@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee4326fd-1fdd-4cf8-9b4c-c6215beed211" name="默认的" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test123/AAAA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test123/AAAA.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,7 +70,7 @@
       <workItem from="1653356587489" duration="4537000" />
       <workItem from="1653439819978" duration="2145000" />
       <workItem from="1653442191617" duration="1238000" />
-      <workItem from="1653443447126" duration="84000" />
+      <workItem from="1653443447126" duration="386000" />
     </task>
     <task id="LOCAL-00001">
       <created>1652778090752</created>
@@ -129,7 +128,21 @@
       <option name="project" value="LOCAL" />
       <updated>1653443027573</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="修改了aaa">
+      <created>1653443566674</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1653443566674</updated>
+    </task>
+    <task id="LOCAL-00010" summary="修改了aaa">
+      <created>1653443643542</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1653443643542</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,13 +150,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="11" />
-    <option name="LAST_COMMIT_MESSAGE" value="11" />
+    <MESSAGE value="修改了aaa" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改了aaa" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="470" y="0" key="CommitChangelistDialog2" timestamp="1653443026719">
+    <state x="470" y="0" key="CommitChangelistDialog2" timestamp="1653443642808">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="470" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1653443026719" />
+    <state x="470" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1653443642808" />
     <state x="526" y="111" key="FileChooserDialogImpl" timestamp="1653356630470">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
