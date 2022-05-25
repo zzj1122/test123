@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee4326fd-1fdd-4cf8-9b4c-c6215beed211" name="默认的" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,6 +17,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -25,6 +29,7 @@
     </option>
   </component>
   <component name="ProjectId" id="29HlCD99n76hpK59sFiHzC0FZIp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -50,24 +55,6 @@
     <configuration>C:\Users\琉璃红尘\AppData\Roaming\Subversion</configuration>
     <supportedVersion>125</supportedVersion>
   </component>
-  <component name="SvnFileUrlMappingImpl">
-    <option name="myMappingRoots">
-      <list>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="D:\长沙宏智\111\test123" />
-          <option name="myCopyRoot" value="D:\长沙宏智\111\test123" />
-        </SvnCopyRootSimple>
-      </list>
-    </option>
-    <option name="myMoreRealMappingRoots">
-      <list>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="D:\长沙宏智\111\test123" />
-          <option name="myCopyRoot" value="D:\长沙宏智\111\test123" />
-        </SvnCopyRootSimple>
-      </list>
-    </option>
-  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="ee4326fd-1fdd-4cf8-9b4c-c6215beed211" name="默认的" comment="" />
@@ -82,7 +69,8 @@
       <workItem from="1653006620151" duration="9947000" />
       <workItem from="1653266570900" duration="2257000" />
       <workItem from="1653356587489" duration="4537000" />
-      <workItem from="1653439819978" duration="889000" />
+      <workItem from="1653439819978" duration="2145000" />
+      <workItem from="1653442191617" duration="613000" />
     </task>
     <task id="LOCAL-00001">
       <created>1652778090752</created>
@@ -151,14 +139,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="526" y="111" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1653356630470" />
+    <state x="640" y="314" key="Github.ShareDialog" timestamp="1653442801743">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="640" y="314" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1653442801743" />
+    <state x="596" y="114" key="Github.UntrackedFilesDialog" timestamp="1653440731877">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="596" y="114" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1653440731877" />
     <state x="349" y="149" key="IDE.errors.dialog" timestamp="1653360209410">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="349" y="149" key="IDE.errors.dialog/0.0.1536.824@0.0.1536.824" timestamp="1653360209410" />
-    <state x="322" y="58" key="SettingsEditor" timestamp="1653440709146">
+    <state x="322" y="58" key="SettingsEditor" timestamp="1653442487676">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="322" y="58" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1653440709146" />
+    <state x="322" y="58" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1653442487676" />
     <state x="591" y="271" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1652778352296">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
